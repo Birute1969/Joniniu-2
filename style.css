@@ -1,0 +1,17 @@
+.buttons-wrapper {
+    align-items: center;
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+    height: 60vh;
+    justify-content: space-between;
+}
+.buttons-wrapper button {
+    background-color: aqua;
+    color: red;
+    margin: 20 px;
+    padding: 20px;
+    width: 250px;
+    
+
+}
